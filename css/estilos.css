@@ -319,7 +319,7 @@ width: 80%;
 flex-grow: 1;
 }
 .contacto p, .terminos p, .redes p, .derechos p{
-text-align: center;
+text-align: left;
 }
 
 /*Paisajes*/
@@ -412,7 +412,7 @@ flex-grow: 1;
 }
 
 .contacto p, .terminos p, .redes p, .derechos p{
-text-align: center;
+text-align: left;
 }
 
 /*Paisajes*/
